@@ -1,0 +1,55 @@
+{
+ "generado": "2026-11-07 05:06",
+ "zona": "America/Bogota",
+ "ventana_min": 120,
+ "piezas": [
+  {
+   "id": "s01-dom-reel",
+   "fecha": "2026-11-08",
+   "hora": "10:30",
+   "tipo": "reel",
+   "archivos": [
+    "https://jpaulrodriguez.github.io/ig-medios/s01-dom-reel-01-3cf0cb6618.mp4"
+   ],
+   "portada": "https://jpaulrodriguez.github.io/ig-medios/s01-dom-reel-portada-a0aad32c00.jpg",
+   "pie": "Construí una herramienta que te dice si la IA recomienda tu negocio, contra quién pierdes y qué arreglar primero. 🔍\n\nNo necesitas programar para hacer la tuya: comenta VISIBLE y te llega la guía, fase por fase.\n\nVoz: clon de IA de mi voz. Cara: avatar de IA.\n#HerramientasIA #ClaudeCode #Prompts #ChatGPT #Emprendimiento",
+   "despues_de": null
+  },
+  {
+   "id": "s01-dom-hist-1",
+   "fecha": "2026-11-08",
+   "hora": "10:45",
+   "tipo": "historia",
+   "archivos": [
+    "https://jpaulrodriguez.github.io/ig-medios/s01-dom-hist-1-01-10bb0ffdcf.jpg"
+   ],
+   "portada": null,
+   "pie": null,
+   "despues_de": "s01-dom-reel"
+  },
+  {
+   "id": "s01-dom-hist-2",
+   "fecha": "2026-11-08",
+   "hora": "10:50",
+   "tipo": "historia",
+   "archivos": [
+    "https://jpaulrodriguez.github.io/ig-medios/s01-dom-hist-2-01-5df0d32038.jpg"
+   ],
+   "portada": null,
+   "pie": null,
+   "despues_de": "s01-dom-reel"
+  },
+  {
+   "id": "s01-dom-hist-3",
+   "fecha": "2026-11-08",
+   "hora": "10:55",
+   "tipo": "historia",
+   "archivos": [
+    "https://jpaulrodriguez.github.io/ig-medios/s01-dom-hist-3-01-5a31b1f86c.jpg"
+   ],
+   "portada": null,
+   "pie": null,
+   "despues_de": "s01-dom-reel"
+  }
+ ]
+}
