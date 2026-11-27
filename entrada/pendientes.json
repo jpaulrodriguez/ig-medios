@@ -1,0 +1,59 @@
+[
+ {
+  "id": "g00-herramienta-reel",
+  "nombre": "Embudo o rueda",
+  "titular": "¿Tus clientes vuelven o se te van apenas compran?",
+  "resaltar": "se te van",
+  "base": "https://jpaulrodriguez.github.io/ig-medios/g00-herramienta-reel-01-9904f79dfc.mp4",
+  "piezas": [
+   {
+    "id": "g00-herramienta-reel",
+    "fecha": "2026-11-26",
+    "hora": "16:00",
+    "tipo": "reel",
+    "archivos": [
+     "https://jpaulrodriguez.github.io/ig-medios/g00-herramienta-reel-01-9904f79dfc.mp4"
+    ],
+    "portada": "https://jpaulrodriguez.github.io/ig-medios/g00-herramienta-reel-portada-8e3fbe1e89.jpg",
+    "pie": "Si no sabes si tus clientes vuelven o se te van apenas compran, esta herramienta te lo muestra en dos minutos.\n\nGrowth · Capítulo 0 · La herramienta\n\nSe llama Embudo o rueda. Respondes siete preguntas de tu negocio y un motor en 3D gira con tus respuestas: los clientes que se quedan dan vueltas y los que no, salen. Al final te dice cuál de tres motores te falta (que sirva, que vuelvan o que recomienden) y te deja tres tácticas con su plan de cuatro semanas y los mensajes para copiar. Es gratis y no te pide correo. Es orientación con reglas escritas a mano, no promete resultados.\n\nComenta MOTOR y te mando el enlace.\n\nVoz: clon de IA de mi voz.\n\n#Pymes #EmprendedoresColombia #FidelizacionDeClientes #CrecimientoEmpresarial #HerramientasIA",
+    "despues_de": null
+   },
+   {
+    "id": "g00-herr-hist-1",
+    "fecha": "2026-11-26",
+    "hora": "16:05",
+    "tipo": "historia",
+    "archivos": [
+     "https://jpaulrodriguez.github.io/ig-medios/g00-herr-hist-1-01-52ab68b0c1.jpg"
+    ],
+    "portada": null,
+    "pie": null,
+    "despues_de": "g00-herramienta-reel"
+   },
+   {
+    "id": "g00-herr-hist-2",
+    "fecha": "2026-11-26",
+    "hora": "16:10",
+    "tipo": "historia",
+    "archivos": [
+     "https://jpaulrodriguez.github.io/ig-medios/g00-herr-hist-2-01-a04d7a7fbc.jpg"
+    ],
+    "portada": null,
+    "pie": null,
+    "despues_de": "g00-herramienta-reel"
+   },
+   {
+    "id": "g00-herr-hist-3",
+    "fecha": "2026-11-26",
+    "hora": "16:15",
+    "tipo": "historia",
+    "archivos": [
+     "https://jpaulrodriguez.github.io/ig-medios/g00-herr-hist-3-01-311985f6b6.jpg"
+    ],
+    "portada": null,
+    "pie": null,
+    "despues_de": "g00-herramienta-reel"
+   }
+  ]
+ }
+]
